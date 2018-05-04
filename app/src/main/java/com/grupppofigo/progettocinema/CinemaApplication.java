@@ -63,8 +63,17 @@ public class CinemaApplication extends Application {
                 4,
                 "https://i.annihil.us/u/prod/marvel/i/mg/6/50/521f70b81f7d3/portrait_incredible.jpg");
 
+//        Film f2 = new Film(0,
+//                "Tre uomini ed una gamba",
+//                101,
+//                new Genere(3,""),
+//                "Gran bel film",
+//                5,
+//                "https://pad.mymovies.it/filmclub/2006/06/251/locandina.jpg");
+
+
         Film f2 = new Film(0,
-                "Tre uomini ed una gamba",
+                "Tre uomini ed una asda",
                 101,
                 new Genere(3,""),
                 "Gran bel film",
